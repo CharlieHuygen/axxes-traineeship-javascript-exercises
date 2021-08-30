@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Charlotte Huygen",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-typescript": "^7.10.4",
+    "jest": "^27.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "babel-jest": "^27.1.0",
+    "ts-jest": "^27.0.5"
+  }
+}
